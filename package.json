@@ -1,0 +1,23 @@
+{
+  "main": "index.html",
+  "name": "rivercross",
+  "description": "phaser game implementation",
+  "version": "0.1.0",
+  "keywords": [ "demo", "node-webkit" ],
+  "window": {
+    "title": "rivercross",
+    "icon": "./assets/arrow.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 617,
+    "height": 436,
+    "position": "mouse",
+    "min_width": 617,
+    "min_height": 436,
+    "max_width": 617,
+    "max_height": 436
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
